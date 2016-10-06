@@ -1,6 +1,6 @@
 {
   "name": "excel",
-  "version": "0.1.4",
+  "version": "0.1.4.1",
   "description": "Simple NodeJS XLSX parser.",
   "main": "excelParser.js",
   "contributors": [
@@ -11,6 +11,10 @@
     {
       "name": "Fabian Tollenaar",
       "email": "fabian@starting-point.nl"
+    }, 
+    {
+      "name": "Rashid Omar", 
+      "email": "rashid.aden.omar@gmail.com"
     }
   ],
   "scripts": {
